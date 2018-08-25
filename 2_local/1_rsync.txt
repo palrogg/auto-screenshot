@@ -1,0 +1,1 @@
+rsync -avz -e "ssh -i $HOME/.ssh/YOUR-SSH-FILE" root@YOUR-SERVER-IP:/root/auto-screenshot/screenshots /YOUR/LOCAL/PATH

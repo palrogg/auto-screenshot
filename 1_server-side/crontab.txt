@@ -1,0 +1,2 @@
+*/5 * * * * TZ=Europe/Berlin phantomjs /root/auto-screenshot/auto-screenshot.js >> /root/auto-screenshot/log.txt
+
